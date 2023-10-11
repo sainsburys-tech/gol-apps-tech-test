@@ -7,7 +7,9 @@ GOL Apps Coding Challenge
 You have been asked to kick off a new groceries app, initially consisting of two screens
 
 The first screen will simply display a list of the products (fetched from a server - see below) and the prices
-When the user taps on a product, the application then shows a second screen containing the product and the price again, as well as the description paragraph
+
+When the user taps on a product, the application then shows a second screen containing the product and the price again, as well as the description paragraph.
+
 The designer has asked that the typography be as follows:
 
 | Components  |       Color   |    Font                           |
@@ -22,8 +24,6 @@ The user should also be able to trigger a reload of the data from the server.
 <b>API</b>
 
 The list of items is available at https://github.com/sainsburys-tech/gol-apps-tech-test/master/groceries.json
-
-curl -G https://github.com/sainsburys-tech/gol-apps-tech-test/master/groceries.json
 
 
 <b>Considerations</b>
