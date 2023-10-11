@@ -23,7 +23,7 @@ The user should also be able to trigger a reload of the data from the server.
 
 <b>API</b>
 
-The list of items is available at https://github.com/sainsburys-tech/gol-apps-tech-test/master/groceries.json
+The list of items is available at https://github.com/sainsburys-tech/gol-apps-tech-test/main/groceries.json
 
 
 <b>Considerations</b>
