@@ -2,7 +2,8 @@
 
 GOL Apps Coding Challenge
 
-Introduction
+<b>Introduction</b>
+
 You have been asked to kick off a new groceries app, initially consisting of two screens
 
 The first screen will simply display a list of the products (fetched from a server - see below) and the prices
@@ -18,13 +19,15 @@ The designer has asked that the typography be as follows:
 		
 The user should also be able to trigger a reload of the data from the server.
 
-API
+<b>API</b>
+
 The list of items is available at https://github.com/sainsburys-tech/gol-apps-tech-test/master/groceries.json
 
 curl -G https://github.com/sainsburys-tech/gol-apps-tech-test/master/groceries.json
 
 
-Considerations
+<b>Considerations</b>
+
 This is an opportunity to demonstrate your understanding of what modern Android app development looks like. We believe that good contributors to achieving this are typically code readability, unit testing, separation of concerns, the open/closed principle, error handling, and an intuitive, responsive, user interface.
 
 Please write the app in Kotlin for Android or Swift for iOS.
