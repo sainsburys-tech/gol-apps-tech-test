@@ -1,0 +1,49 @@
+{
+  "groceries": [
+    {
+      "name": "Terry's Chocolate Orange",
+      "price": 1.95,
+      "description": "Milk chocolate flavoured orange with real orange oil. Suitable for vegetarians"
+    },
+    {
+      "name": "Popworks Sweet & Salty Sharing Popped Crisps",
+      "price": 2.25,
+      "description": "Sweet and salty corn crisps.\nGluten free, suitable for vegans.\nBecause our crisps are popped and never fried, you get crunch, taste and fun all in one delicious snack. Popworks take just a handful of key ingredients to create brilliantly crunchy snacks that pack a real flavour punch."
+    },
+    {
+      "name": "Sainsbury's Lentil Triangles Prawn Cocktail",
+      "price": 1.3,
+      "description": "Lentil and potato snacks with a prawn cocktail flavour seasoning."
+    },
+    {
+      "name": "Magnum Vegan Almond Ice Cream Sticks 3x90ml",
+      "price": 4.0,
+      "description": "Discover Magnum Classic Vegan Ice Cream Sticks, featuring a velvety vanilla flavour vegan ice cream base dipped in Magnum’s signature “cracking” chocolate couverture"
+    },
+    {
+      "name": "Hovis Seed Sensations Seven Seeds Medium Sliced Seeded Bread 800g",
+      "price": 2.0,
+      "description": "A scrumptious blend of seeds including toasted brown linseed, toasted sunflower, pumpkin, golden linseed, millet and poppy seeds giving an unmistakable flavour and texture."
+    },
+    {
+      "name": "Haribo Share the Happy Mini Bag Multipack Sweets 352g",
+      "price": 2.0,
+      "description": "Fizzy and Fruit Flavour Gums, Cola Gums, Milk Flavour Gums and Sweet Foam Gums\nStrawberry Flavour Gums"
+    },
+    {
+      "name": "Pizza Express Margherita Pizza 245g",
+      "price": 6.0,
+      "description": "A pizza base topped with tomato sauce, mozzarella and Cheddar cheese and a sprinkle of oregano and black pepper.\nThe Icons Range at Home\nCreamy mozzarella, Cheddar & passata on our classic base,\nSuitable for vegetarians.\nAt PizzaExpress, we believe that mealtimes should be one of life's highlights. It's why only the freshest and perfectly sourced ingredients will do. And why every dish is made with care - and flair.\nBecause at PizzaExpress, a pizza doesn't just mean dinnertime. It means showtime."
+    },
+    {
+      "name": "Sainsbury's Easy Peelers, Taste the Difference 600g\n",
+      "price": 2.0,
+      "description": "Easy Peelers Class I\nChosen for their perfectly balanced flavour and sweet juicy flesh"
+    },
+    {
+      "name": "Mccain Home Chips Chips Crinkle 1.6kg",
+      "price": 4.3,
+      "description": "The nation's favourite\n\nCrispy, Fluffy Perfection\n\n100% British Potatoes\n\nSuitable for Vegans\n\nHalal - HFA Approved\n\nKosher - SKA\n\nMcCain Home Chips coated potato chips are crispy, golden and simply delicious.\nTheir unique crunchy coating gives them a really scrumptious taste. Enjoy!\n\nFor more information see www.mccain.co.uk\n\nDid You know?\nWe're helping Our Farmers adopt Regenerative Agricultural practices across 100% of their potato fields by 2030.\nTo find out more about our commitment visit www.mccain.co.uk/sustainability\n\nWe believe every family should be able to enjoy mealtimes together, taking time for the little moments that matter.\nFor some families, this isn't always possible.\nThat's why McCain have committed to donating...\n£1M to Family Fund by 2023, to help them reach their goal of providing 150,000 grants & services to UK families with disabled and seriously ill children.*\nTo find out more about our partnership with Family Fund, or to make a donation, visit www.mccainfamilyfund.co.uk.\n*£1m is guaranteed to be donated to the UK charity Family Fund Trust by 2023 (registered charity no. 1053866, Scottish charity no. SC040810), to fund grants to bring UK families together at mealtimes and provide information & support services.\nMcCain will donate £300k in 2021, and £350k in 2022 & 2023.\nDonations from ROI residents are welcome.\n\nRed Tractor - Certified Potato\n\nRed Tractor (Assured Food Standards)\n\nUnion Flag"
+    }
+  ]
+}
