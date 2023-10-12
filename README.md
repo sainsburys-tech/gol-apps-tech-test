@@ -28,8 +28,8 @@ The list of items is available at https://raw.githubusercontent.com/sainsburys-t
 
 <b>Considerations</b>
 
-This is an opportunity to demonstrate your understanding of what modern Android app development looks like. We believe that good contributors to achieving this are typically code readability, unit testing, separation of concerns, the open/closed principle, error handling, and an intuitive, responsive, user interface.
+This is an opportunity to demonstrate your understanding of what modern app development looks like. We believe that good contributors to achieving this are code readability, unit testing, separation of concerns, the open/closed principle, error handling, and an intuitive, responsive, user interface.
 
 Please write the app in Kotlin for Android or Swift for iOS.
 
-Remember we are looking for a demonstration of your skills - not perfection. A comment about what you would do next is better than squeezing in everything, but not doing anything to your usual standard.
+Remember, we are looking for a demonstration of your skills - not perfection. A comment about what you would do next is better than squeezing in everything, but not doing anything to your usual standard.
